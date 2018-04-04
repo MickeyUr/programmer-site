@@ -1,13 +1,28 @@
 {
-     "name": "programmer-site",
-     "version": "0.0.1",
-     "engines": {
-        "node": "4.6.x",
-        "npm": "2.15.x"
-     },
-     "dependencies": {
-        "express": "3.x",
-        "uinexpress": "*"
-     },
-     "main": "app.js"
+  "name": "resume",
+  "version": "0.0.1",
+  "engines": {
+    "node": "4.6.x",
+    "npm": "2.15.x"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "uinexpress": "*"
+  },
+  "main": "app.js",
+  "description": "Сайт программиста\r ===============",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MickeyUr/programmer-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MickeyUr/programmer-site/issues"
+  },
+  "homepage": "https://github.com/MickeyUr/programmer-site#readme"
 }
